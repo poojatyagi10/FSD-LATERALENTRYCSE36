@@ -1,0 +1,18 @@
+{
+  "name": "studentmanagement",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Student management Node.js exercises",
+  "main": "expressApp.js",
+  "scripts": {
+    "start": "node expressApp.js",
+    "start:http": "node httpServer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
