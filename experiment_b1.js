@@ -8,5 +8,5 @@ app.on('login', (user) => {
 app.on('message', (msg) => {
     console.log(`Message: ${msg}`);});
 
-app.emit('login', 'Aman');
+app.emit('login', 'pooja tyagi');
 app.emit('message', 'Welcome to Node.js');

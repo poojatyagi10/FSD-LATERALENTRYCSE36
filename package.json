@@ -1,0 +1,24 @@
+{
+  "name": "fsd-lateralentrycse36",
+  "version": "1.0.0",
+  "description": "",
+  "main": "experiment_a1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poojatyagi10/FSD-LATERALENTRYCSE36.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/poojatyagi10/FSD-LATERALENTRYCSE36/issues"
+  },
+  "homepage": "https://github.com/poojatyagi10/FSD-LATERALENTRYCSE36#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
